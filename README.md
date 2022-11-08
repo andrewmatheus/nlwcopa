@@ -29,15 +29,14 @@
   <a href="#art-Demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mailbox-Contacts">Contacts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#memo-license">License</a>
-</p>   
-   Contructed during event the rocketseat (https://www.rocketseat.com.br/)
+</p>      
    
 ## :notebook: About this Project
 
-**NLW COPA**, *Application created during event the rocketseat (https://www.rocketseat.com.br/), for study purposes*. 
-  - __BackEnd__: API Rest, Created in Nodejs with typescript.
-  - __FrontEnd__: Consumes API, Created a dashboard the NLW Copa to dynamically visualize the number of people participating and allows the creation of new pools. Created in Reactjs with typescript.
-  - __Mobile__: Consumes API. Application with all features, such as social login, create and search for pools, participate and guess the games registered in the database ... Created in Expo React Native with typescript. 
+- **NLW COPA**, *Application created during event the [RocketSeat](https://www.rocketseat.com.br/), for study purposes*. 
+  - __BackEnd__: API Rest, Created in Nodejs with typescript and Prisma.
+  - __FrontEnd__: Consumes API, Created a dashboard the NLW Copa to dynamically visualize the number of people participating and allows the creation of new pools. Created in Reactjs with typescript and NextJs.
+  - __Mobile__: Consumes API. Application with all features, such as social login, create and search for pools, participate and guess the games registered in the database ... Created in React Native with typescript and Expo. 
 
 ## :rocket: Getting Started
 
